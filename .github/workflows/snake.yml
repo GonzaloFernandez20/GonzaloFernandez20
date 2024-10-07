@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Ejecuta la acción diariamente a las 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -18,10 +17,12 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: GonzaloFernandez20
-          outputs: dist/snake.svg
+          output: dist/github-contribution-grid-snake.svg # Asegúrate de que esta ruta sea correcta
 
-      - name: Upload the snake animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-graph
-          path: dist/snake.svg
+      - name: Commit and push snake animation
+        run: |
+          git config --local user.email "gonzalo007fernandez@gmail.com
+          git config --local user.name "Gonzalo Fernandez"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push
