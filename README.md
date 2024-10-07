@@ -68,10 +68,9 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
   </kbd>
 </p>
-
+<!--
 ![snake gif](https://github.com/GonzaloFernandez20/GonzaloFernandez20/blob/output/github-contribution-grid-snake.svg)
-
-<!-- <h2 align="center"><u>Mis estadisticas</u></h2>
+ <h2 align="center"><u>Mis estadisticas</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloFernandez20&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
