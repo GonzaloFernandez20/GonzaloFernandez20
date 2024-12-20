@@ -8,10 +8,11 @@
 
 **Sobre mi!**
 
-👨🏽‍💻 Me gustan los proyectos y siempre estar aprendiendo algo nuevo
-🤔 Mi parte favorita del desarrollo esta en el Back End
-🌱 Me gusta hacer deportes y de vez en cuando leer algun libro
-💬 Contactate conmigo en: [gonzalo007fernandez@gmail.com](mailto:gonzalo007fernandez@gmail.com), estare encantado de responder!
+👨🏽‍💻 Me gustan los proyectos y siempre estar aprendiendo algo nuevo<br>
+_- Actualmente estoy aprendiendo Analisis de Datos con Power BI<br>_
+🤔 Mi parte favorita del desarrollo esta en el Back End<br>
+🌱 Me gusta hacer deportes y de vez en cuando leer algun libro<br><br>
+💬 Contactate conmigo en: [gonzalo007fernandez@gmail.com](mailto:gonzalo007fernandez@gmail.com), estare encantado de responder!<br>
 <!-- - 🌐 Pasate a ver mi sitio web personal por aca []() -->
 
 #### Tecnologias con las que trabajo
